@@ -1,5 +1,6 @@
 package org.example.start
 
+// kotlin은 root main 이거나 companion object 하위 형태의 fun main이면 java psvm 처럼 실행 가능
 class HelloThreadMain {
 
     companion object {
